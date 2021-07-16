@@ -1,0 +1,62 @@
+body {
+    background-color: #f54748;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  #cover-pic {
+    margin-top: 24px;
+  }
+  
+  #title {
+    font-family: "Courgette", cursive;
+  }
+  
+  #para {
+    font-family: "Cutive Mono", monospace;
+  }
+  
+  .twister {
+    background-color: aliceblue;
+    width: 300px;
+    border-style: solid;
+    border-radius: 15px;
+  }
+  
+  .zinger-burger {
+    background-color: aliceblue;
+    width: 300px;
+    border-style: solid;
+    border-radius: 15px;
+  }
+  
+  .project {
+    padding-top: 26px;
+  }
+  
+  footer {
+    background-color: #a7bbc7;
+    margin-top: 44px;
+    padding-bottom: 12px;
+    padding-top: 5px;
+  }
+  
+  .octicon {
+    position: relative;
+    top: 5px;
+  }
+  
+  /* @media (max-width: 360px) {
+    #cover-pic {
+      width: 233px;
+    }
+    #para {
+      width: 266px;
+      font-family: "Cutive Mono";
+      font-family: monospace;
+    }
+    .twister,
+    .zinger-burger {
+      width: 250px;
+    }
+  } */
